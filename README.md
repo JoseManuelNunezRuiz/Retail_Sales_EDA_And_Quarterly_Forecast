@@ -20,7 +20,7 @@ Various visualizations are created using Matplotlib and Seaborn to represent sal
 ### Forecasting with Prophet
 Utilizing the Prophet library, quarterly and monthly sales forecasts are generated for each product category. The forecasts provide insights into future sales trends based on historical data.
 
-### Forecast results
+### Forecast Results
 - **Clothing:**
   - Jan: 14898.77
   - Feb: 14585.23
