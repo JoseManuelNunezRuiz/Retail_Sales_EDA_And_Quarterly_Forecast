@@ -38,7 +38,7 @@ Utilizing the Prophet library, quarterly and monthly sales forecasts are generat
   - January: 13627.92
   - February: 13122.86
   - March: 14145.07
-  - Total (Q) Beauty: 36805.08
+  - Total (Q) Electronics: 40895.85
 
 ### Conclusion
 The project concludes with a comprehensive analysis of the retail sales dataset, forecasting trends, and visualizing key insights for informed decision-making.
